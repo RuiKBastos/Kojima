@@ -1,0 +1,38 @@
+body {
+      font-family: sans-serif;
+      background-color: #CED3DC;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+
+    img {
+      width: 200px;
+      border-radius: 10px;
+    }
+
+    .card {
+      background-color: #37507d;
+      padding: 20px;
+      border-radius: 10px;
+      max-width: 600px;
+      margin: auto;
+      list-style-type:none;
+      font-size: 20px;
+    }
+
+    .susie_image img {
+      width: 90px;
+       position: absolute;
+      top: 382px;   /* distância do topo */
+     right: 100px; /* distância da esquerda */
+    }
+
+    .costura_image img {
+      width: 180px;
+       position: absolute;
+      top: 300px;   /* distância do topo */
+     left: 67px; /* distância da esquerda */
+    }
+
+
