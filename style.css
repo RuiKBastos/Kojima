@@ -25,14 +25,14 @@ body {
       width: 90px;
        position: absolute;
       top: 382px;   /* distância do topo */
-     right: 100px; /* distância da esquerda */
+     right: 86px; /* distância da direita */
     }
 
     .costura_image img {
       width: 180px;
        position: absolute;
       top: 300px;   /* distância do topo */
-     left: 67px; /* distância da esquerda */
+     left: 0px; /* distância da esquerda */
     }
 
 
