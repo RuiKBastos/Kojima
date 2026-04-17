@@ -45,3 +45,20 @@ body {
       list-style-type:none;
       font-size: 20px;
     }
+
+    .botao {
+      font-family: 'Courier New', Courier, monospace;
+      background-color: #37507d;
+      padding: 10px;
+      border-radius: 10px;
+      max-width: 200px;
+      margin: auto;
+      list-style-type:none;
+      font-size: 20px;
+      margin-right: 30px;
+      justify-content: center;
+      text-decoration: none;
+      color: white;
+    }
+
+    
