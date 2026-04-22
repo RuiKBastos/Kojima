@@ -1,0 +1,80 @@
+body {
+      font-family: sans-serif;
+      background-color: #A0D2DB;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      margin-left: 15px; /* espaço da sidebar */
+    }
+
+
+    .card {
+      background-color: #ce2340;
+      padding: 20px;
+      border-radius: 10px;
+      max-width: 600px;
+      margin: auto;
+      list-style-type:none;
+      font-size: 20px;
+      box-shadow: 5px 5px #6d0404;
+    }
+
+    ul {
+      list-style-type: none;
+    }
+
+    .sidebar {
+      text-align: left;
+      text-decoration: none;
+
+      position: fixed;
+      left: 0;
+      top: 0;
+
+      width: 200px;
+      height: 100%;
+
+      background-color: #726DA8;
+      padding-top: 20px;
+    }
+
+    .sidebar a {
+      display:block;
+      color: white;
+      padding: 15px;
+      text-decoration: none;
+      font-size: 18px;
+    }
+
+    .sidebar a:hover {
+      background-color: #2c4066;
+    }
+
+    .rayman_imagem {
+       width: 300px;
+      height: auto;
+
+       position: absolute;
+      top: 200px;  
+      left: 250px;
+    }
+
+    .lego_marvel {
+      width: 300px;
+      height: auto;
+
+       position: absolute;
+      top: 250px;  
+      left: 700px;
+    }
+
+    .lego_batman {
+       width: 300px;
+      height: auto;
+
+       position: absolute;
+      top: 350px;  
+      left: 1050px;
+    }
+
+    
