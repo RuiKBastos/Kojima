@@ -1,0 +1,28 @@
+.card {
+      background-color: #7d3737;
+      padding: 20px;
+      border-radius: 10px;
+      max-width: 600px;
+      margin: auto;
+      list-style-type:none;
+      font-size: 20px;
+      box-shadow: 5px 5px #4e2323;
+    }
+
+    body {
+      background-image: url('papel_de_parede_Japão.avif');
+      font-family: 'Courier New', Courier, monospace;
+      background-size: cover;
+      color: rgb(255, 255, 255);
+    }
+
+    .tecla{
+      width: 700px;        /* define tamanho FIXO */
+  margin-left: 850px;  /* CENTRALIZA */
+  text-decoration: none;
+  list-style-type:none;
+  color: white;
+  padding: 20px;
+  background-color: #7d3737;
+  border-radius: 15px;
+    }
